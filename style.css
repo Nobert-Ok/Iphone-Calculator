@@ -1,0 +1,17 @@
+.Iphone{
+    width: 290px;
+    height: 569px;
+    margin: 150px auto;
+    padding: 4px;
+    border-color: beige;
+    border: 1px solid rgb(146, 146, 146);
+    border-radius: 2rem;
+}
+.btn:focus, .btn:active{
+   outline: none;
+   border: none;
+}
+
+p{
+    display: inline;
+}
